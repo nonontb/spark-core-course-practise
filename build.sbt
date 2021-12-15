@@ -21,12 +21,14 @@ val commonSettings = Seq (
 )
 
 lazy val course = (project in file("."))
-  .aggregate(dataframe,columns)
-  
+  .aggregate(dataframe,columns, aggregation) 
 
 lazy val dataframe = (project in file("dataframe"))
   .settings(commonSettings)
 
 
-  lazy val columns = (project in file("columns"))
+lazy val columns = (project in file("columns"))
+  .settings(commonSettings)
+
+lazy val aggregation = (project in file("aggregation"))
   .settings(commonSettings)
