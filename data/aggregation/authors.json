@@ -1,0 +1,8 @@
+{"id":1, "firstname":"Matei","lastname":"Zaharia","title":"Spark, The Definitive guide","editor":"O'reilly"}
+{"id":2, "firstname":"Bill","lastname":"Chambers","title":"Spark, The Definitive guide","editor":"O'reilly"}
+{"id":3, "firstname":"Holden","lastname":"Karau","title":"High Performance Spark","editor":"O'reilly"}
+{"id":4, "firstname":"Rachel","lastname":"Warren","title":"High Performance Spark","editor":"O'reilly"}
+{"id":5, "firstname":"Jean-Georges","lastname":"Perrin","title":"Spark in Action, 2nd edition","editor":"Manning"}
+{"id":6, "firstname":"Petar","lastname":"Zečević","title":"Spark in Action, 2nd edition","editor":"Manning"}
+{"id":7, "firstname":"Marko","lastname":"Bonaći","title":"Spark in Action","editor":"Manning"}
+{"id":8, "firstname":"Mike","lastname":"Frampton","title":"Mastering Apache Spark","editor":"Packt"}
