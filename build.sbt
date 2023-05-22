@@ -32,3 +32,6 @@ lazy val columns = (project in file("columns"))
 
 lazy val aggregation = (project in file("aggregation"))
   .settings(commonSettings)
+
+lazy val join = (project in file("join"))
+  .settings(commonSettings)

@@ -1,0 +1,6 @@
+{"id":1, "title":"Star wars, A new Hope","director":"George Lucas", "category": 1}
+{"id":2, "title":"Alien","director":"Ridley Scott", "category": 1}
+{"id":3, "title":"Pulp Fiction","director":"Quentin Tarantino", "category": 2}
+{"id":4, "title":"Seven","director":"David Fincher", "category": 2}
+{"id":5, "title":"La grande vadrouille","director":"Gérard Oury", "category": 3}
+{"id":6, "title":"Avatar","director":"James Cameron", "category": 4}
